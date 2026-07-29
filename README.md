@@ -12,3 +12,10 @@ A Netflix homepage clone built using HTML and CSS. This project replicates the N
 
 - HTML5
 - CSS3
+## Live Demo
+
+https://saurabhp324.github.io/Netflix-Homepage-Clone/
+
+## GitHub Repository
+
+https://github.com/saurabhp324/Netflix-Homepage-Clone
